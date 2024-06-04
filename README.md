@@ -2,8 +2,10 @@
 
   
 <!-- - 🔭 I’m currently working on ... -->
-  - 🌱 I’m currently working using ReactJS, Recharts, Redux and Styled Components.
-  - 📫 How to reach me: georgelucas.dev@gmail.com
+
+<p>🌱 I’m currently working using ReactJS, Recharts, Redux and Styled Components.</p>
+<p>📫 How to reach me: georgelucas.dev@gmail.com</p>
+
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
