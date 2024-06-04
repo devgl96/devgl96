@@ -5,6 +5,7 @@
 
 <p>🌱 I’m currently working using ReactJS, Recharts, Redux and Styled Components.</p>
 <p>📫 How to reach me: georgelucas.dev@gmail.com</p>
+<p>⚡ Fun fact: I like so much automatization using Python</p>
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
