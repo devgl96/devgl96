@@ -46,6 +46,6 @@
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eduardaaraujoo}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devgl96}/count.svg" /></p> 
 <br></div>
 
